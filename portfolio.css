@@ -1,0 +1,67 @@
+#TOP{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: xx-large;
+    padding: 150px;
+    width:100%;
+    color: white;
+    z-index: -1;
+}
+#navbar{
+    background-image: url(https://i1.sndcdn.com/avatars-000318110325-0buhqt-t500x500.jpg);
+    max-height: 200px;
+    display: flexbox;
+    width: 100%;
+    height: 100%;
+}
+#mount{
+    height:2px;
+    padding:  10px;
+}
+img{
+     align-self: center;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+body{
+    background-color: rgb(199, 216, 215);
+    z-index: -1;
+   
+}
+#P{
+    color: slateblue;
+}
+h2{
+    text-align: center;
+    color: rgb(12, 233, 23);
+}
+h3{
+    color: rgb(40, 8, 247);
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.contactme{
+    text-align: center;
+        margin-top: 70px;
+        margin-bottom: 100px;
+        
+    }
+    button{
+        text-align: center;
+        background-color: greenyellow;
+        margin: 0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        font-size: 1.5em;
+        padding: 20px;
+    }
